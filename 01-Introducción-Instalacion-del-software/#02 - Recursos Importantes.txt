@@ -1,0 +1,7 @@
+🔴➜Listas de Reproduccion:
+☆☆👉Curso de Python desde Cero: https://bit.ly/Curso_de_Python_desde__Cero
+
+☆☆👉Instalar Python: https://www.python.org/downloads/
+
+🔴¡AVISO IMPORTANTE!
+Este curso es para principiantes, veremos conceptos generales de la programación desde cero. Es decir, voy a asumir que no tienen conocimiento previo en el desarrollo de código. Como veran en muchos vídeos, aprenderemos unas bases teóricas que les servirán para cualquier lenguaje de programación. Además, les propondré múltiples ejercicios a lo largo de los vídeos para repasar los nuevos conceptos que vayamos aprendiendo. 
